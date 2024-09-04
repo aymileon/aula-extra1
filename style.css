@@ -1,0 +1,26 @@
+.cabecalho{
+    background-image: linear-gradient(black,cyan);
+    color: aliceblue;
+    display: flex;
+    padding: 240px;
+}
+.section1 {
+   background-image: linear-gradient(cyan,black);
+   color: aliceblue;
+   display: flex;
+    padding: 240px;         
+}
+
+.section2{
+    background-image: linear-gradient(black,cyan);
+    color: aliceblue;
+    display: flex;
+    padding: 240px;
+}
+
+.rodape{
+    background-image: linear-gradient(cyan,black);
+    color: aliceblue;
+    display: flex;
+    padding: 24px;
+}
