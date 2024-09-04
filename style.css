@@ -12,7 +12,7 @@
 }
 
 .section2{
-    background-image: linear-gradient(black,rgb(255, 0, 200));
+    background-image: linear-gradient(rgba(0, 0, 0, 0.801),rgb(255, 0, 200));
     color: aliceblue;
     display: flex;
     padding: 240px;
